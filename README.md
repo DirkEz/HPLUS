@@ -5,9 +5,9 @@
   <a href="https://github.com/DirkEz/HPLUS">
     <img src="https://hplussport.com/wp-content/uploads/2015/12/h-horizontal-logo.png" alt="Logo" width="80" height="80">
   </a>
-<h3 align="center">ASP.NET GEOPROFS</h3>
+<h3 align="center">HPLUS Sport Diet Services</h3>
   <p align="center">
-    GEOPROFS Project BSD
+    PPT HPLUS Project
     <br />
     <a href="https://github.com/DirkEz/HPLUS"><strong>Explore the docs »</strong></a>
     <br />
