@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/DirkEz/HPLUS">
-    <img src="https://hplussport.com/wp-content/uploads/2015/12/h-horizontal-logo.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/974236506736709673/1197522562217951272/LOGO.png?ex=65bb92cb&is=65a91dcb&hm=774ba9e7dc0aad1906a65bdeb40deceb44383597bdef9b742c0bc9fae26f8fe7" alt="Logo" width="80" height="80">
   </a>
 <h3 align="center">HPLUS Sport Diet Services</h3>
   <p align="center">
